@@ -1,0 +1,26 @@
+body{
+    background-image:url("../images/padded.png");
+    color: #cccccc;
+    font-size: 26px;
+}
+
+.container{
+    background:darkslategrey;
+    text-align: center;
+    padding: 40px;
+    width: 530px;
+    margin-top: 100px;
+}
+
+#gameName{
+    color: rgb(243, 243, 178);
+    font-size: xx-large;
+}
+
+hr{
+    opacity: 0.2;
+    margin-top: 3px;
+    width: 455px;
+    background: #cccccc;
+    padding: 1px;
+}
